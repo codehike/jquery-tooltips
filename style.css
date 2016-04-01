@@ -1,0 +1,10 @@
+[data-tooltip] {
+	position: relative;
+	text-decoration: underline;
+}
+.tooltip {
+	position: absolute;
+	left: 0;
+	background: white;
+	border: 1px solid black;
+}
